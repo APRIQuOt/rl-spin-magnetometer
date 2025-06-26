@@ -1,0 +1,18 @@
+name = "SensorUtils"
+uuid = "be1392fb-b7fc-4b79-8e52-3b9da734796b"
+authors = ["lwcooke <lwcooke@ualberta.ca>"]
+version = "0.1.0"
+
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+Integrals = "de52edbc-65ea-441a-8357-d3a637375a31"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+[compat]
+ForwardDiff = "0.10.38"
+Integrals = "4.6.0"
+LinearAlgebra = "1.11.0"
+OrdinaryDiffEq = "6.98.0"
+StaticArrays = "1.9.13"
