@@ -3,7 +3,7 @@ Script to setup Julia environment, for `juliacall`.
 
 - The `uuid` for `SensorUtils` comes from its `Project.toml` file.
 - The `path` must be an absolute path to the location of SensorUtils location. Here we
-  use the current working directory.
+  use the current working directory, but change as necessary.
 """
 
 import juliapkg as jlp
